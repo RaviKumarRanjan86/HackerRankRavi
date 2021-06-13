@@ -3,7 +3,7 @@ import "./index.css";
 
 export default class StockData extends Component {
   state = {};
-
+//hello
   handleInputChange = (event) => {
     this.state.date = event.target.value;
   };
